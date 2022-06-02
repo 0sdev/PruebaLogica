@@ -1,0 +1,15 @@
+D:\Escritorio\PruebaND\PruebaLogica\PruebaLogica\bin\Debug\net6.0\PruebaLogica.exe
+D:\Escritorio\PruebaND\PruebaLogica\PruebaLogica\bin\Debug\net6.0\PruebaLogica.deps.json
+D:\Escritorio\PruebaND\PruebaLogica\PruebaLogica\bin\Debug\net6.0\PruebaLogica.runtimeconfig.json
+D:\Escritorio\PruebaND\PruebaLogica\PruebaLogica\bin\Debug\net6.0\PruebaLogica.dll
+D:\Escritorio\PruebaND\PruebaLogica\PruebaLogica\bin\Debug\net6.0\ref\PruebaLogica.dll
+D:\Escritorio\PruebaND\PruebaLogica\PruebaLogica\bin\Debug\net6.0\PruebaLogica.pdb
+D:\Escritorio\PruebaND\PruebaLogica\PruebaLogica\obj\Debug\net6.0\PruebaLogica.csproj.AssemblyReference.cache
+D:\Escritorio\PruebaND\PruebaLogica\PruebaLogica\obj\Debug\net6.0\PruebaLogica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\PruebaND\PruebaLogica\PruebaLogica\obj\Debug\net6.0\PruebaLogica.AssemblyInfoInputs.cache
+D:\Escritorio\PruebaND\PruebaLogica\PruebaLogica\obj\Debug\net6.0\PruebaLogica.AssemblyInfo.cs
+D:\Escritorio\PruebaND\PruebaLogica\PruebaLogica\obj\Debug\net6.0\PruebaLogica.csproj.CoreCompileInputs.cache
+D:\Escritorio\PruebaND\PruebaLogica\PruebaLogica\obj\Debug\net6.0\PruebaLogica.dll
+D:\Escritorio\PruebaND\PruebaLogica\PruebaLogica\obj\Debug\net6.0\ref\PruebaLogica.dll
+D:\Escritorio\PruebaND\PruebaLogica\PruebaLogica\obj\Debug\net6.0\PruebaLogica.pdb
+D:\Escritorio\PruebaND\PruebaLogica\PruebaLogica\obj\Debug\net6.0\PruebaLogica.genruntimeconfig.cache
